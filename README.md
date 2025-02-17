@@ -27,6 +27,6 @@ This repository contains study materials for Exam 1 (Weeks 1-6) of CSE 3461 at T
 ### CSE 3461 Practice Test is a pdf of numerous questions to test your general knowledge of the course material.
 - The solutions to these prompts can be found in the 'CSE 3461 Practice Test Answer Key' file.
 
-### CSE 3461 Practice Problems is a pdf of numerous questions to test your knowledge of specific course material
+### CSE 3461 Practice Problems is a pdf of numerous questions from the homeworks to test your knowledge of specific course material
 - The solutions to these questions can be found in the 'CSE 3461 Practice Problems Answer Key' file.
   
